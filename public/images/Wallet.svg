@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="Wallet" transform="translate(-5437 150)">
+    <rect id="Rectangle_113" data-name="Rectangle 113" width="32" height="32" transform="translate(5437 -150)" fill="none"/>
+    <g id="Wallet-2" data-name="Wallet" transform="translate(5402 -258)">
+      <g id="Group_56" data-name="Group 56" transform="translate(39 113)">
+        <path id="Path_22" data-name="Path 22" d="M20.551,15.836v3.871H2.674a1.112,1.112,0,0,1-1.126-1.126V5.912a3.269,3.269,0,0,0,1.619.422H20.481v3.66H17.243a.781.781,0,0,0-.774.774v4.293a.781.781,0,0,0,.774.774ZM0,18.581a2.673,2.673,0,0,0,2.674,2.674H21.326a.781.781,0,0,0,.774-.774V15.836h1.126A.781.781,0,0,0,24,15.062V10.768a.781.781,0,0,0-.774-.774H22.1V5.49a.8.8,0,0,0-.845-.774h-1.9V.774A.781.781,0,0,0,18.581,0H3.167A3.154,3.154,0,0,0,0,3.167ZM17.806,4.716H3.167a1.584,1.584,0,1,1,0-3.167H17.806Zm4.575,9.572H18.018V11.543h4.364Z" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

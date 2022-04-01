@@ -1,0 +1,589 @@
+@import "../../../node_modules/bootstrap/dist/css/bootstrap.css";
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap");
+
+body {
+  background-color: #ffffff;
+  height:100%;
+}
+
+button,
+html,
+input,
+select {
+  font-family: "Inter", "Roboto", "Open Sans", "Helvetica Neue", "Helvetica",
+    "Arial", "sans-serif" !important;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+
+button,
+html,
+input,
+select {
+  font-family: "Inter", "SFProText", "Open Sans", "Helvetica Neue", "Helvetica",
+    "Arial", "sans-serif" !important;
+}
+
+/* input:focus {
+  border: solid 1px #0099ff;
+} */
+
+.display-none {
+  display: none !important;
+}
+
+.display-block {
+  display: block;
+}
+
+.display-flex {
+  display: flex;
+}
+
+.display-inline {
+  display: inline;
+}
+
+/*Cursor-CSS*/
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.cursor-default {
+  cursor: default;
+}
+
+.cursor-not-allowed {
+  cursor: not-allowed;
+}
+
+/*Borders*/
+.b-1-blue {
+  border: 1px solid #0052cc;
+}
+
+.b-1-white {
+  border: 1px solid #e6e6e6;
+}
+
+/*Border-radius*/
+.br-4 {
+  border-radius: 4px;
+}
+
+/*Font-sizes*/
+
+.fs-sm {
+  font-size: 10px !important;
+}
+
+.fs-12 {
+  font-size: 12px !important;
+}
+
+.fs-13 {
+  font-size: 13px !important;
+}
+
+.fs-14 {
+  font-size: 14px !important;
+}
+
+.fs-15 {
+  font-size: 15px !important;
+}
+
+.fs-16 {
+  font-size: 16px !important;
+}
+
+.fs-17 {
+  font-size: 17px !important;
+}
+
+.fs-18 {
+  font-size: 18px !important;
+}
+
+.fs-19 {
+  font-size: 19px !important;
+}
+
+.fs-20 {
+  font-size: 20px !important;
+}
+
+.fs-22 {
+  font-size: 22px !important;
+}
+
+.fs-24 {
+  font-size: 24px !important;
+}
+
+.fs-26 {
+  font-size: 26px !important;
+}
+
+.fs-28 {
+  font-size: 28px !important;
+}
+
+.fs-40 {
+  font-size: 40px;
+}
+
+/*Font-color*/
+
+.fc-warm-grey {
+  color: #999999;
+}
+
+.fc-blue {
+  color: #0052cc !important;
+}
+
+.fc-dark-slate-blue {
+  color: #172b4d;
+}
+
+.fc-white {
+  color: #ffffff !important;
+}
+
+.fc-black {
+  color: #000000;
+}
+
+.fc-blue-grey {
+  color: #5e6c84;
+}
+
+.fc-red {
+  color: red;
+}
+
+.fc-brownish-grey {
+  color: #666666;
+}
+
+.fc-dusky-blue {
+  color: #465d85;
+}
+
+/*Background-color*/
+
+.bg-blue {
+  background-color: #0052cc !important;
+}
+
+/*Width-CSS*/
+
+.outline-none {
+  outline: none !important;
+}
+
+/*Width-CSS*/
+
+.w-150 {
+  width: 150px;
+}
+
+.w-450 {
+  width: 450px;
+}
+
+.w-250 {
+  width: 250px;
+}
+
+.z-index-100 {
+  z-index: 100;
+}
+
+.text-transform-capitalize {
+  text-transform: capitalize !important;
+}
+
+.input-border {
+  border: solid 1px #dfe1e6;
+  border-radius: 2px;
+  background-color: #fafbfc;
+}
+
+.checkbox-border {
+  border-radius: 2px;
+  border: solid 1px #b9bbc2;
+  background-color: #ffffff;
+}
+
+.subscription-plan-card-shadow {
+  box-shadow: 0px 3px 21px 0 rgba(0, 0, 0, 0.07);
+}
+.leaflet-container {
+  width: 100vw;
+  height: 100vh;
+}
+.PrivateSwitchBase-input css-1m9pwf3{
+  box-shadow: none;
+}
+
+
+.__floater__arrow {
+  top:-20px !important;
+}
+.react-joyride__tooltip {
+  width: 100% !important;
+  max-width: 530px !important;
+  text-align: left !important;
+  font-size:1rem !important;
+  font-family: Inter !important;
+  color: #1F1F1F !important;
+  padding: 25px 28px 23px 20px !important;
+  top:-20px !important;
+}
+
+.react-joyride__spotlight {
+  height: 312px !important ;
+  top: 58px !important ;
+  border-radius: 0px !important;
+  
+}
+
+@media (max-height: 800px) {
+  .react-joyride__tooltip{
+    max-width: 450px !important;
+  }
+}
+/* *{
+  -ms-overflow-style: none;
+} */
+::-webkit-scrollbar {
+  width: 20px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #d6dee1;
+  border-radius: 20px;
+  border: 6px solid transparent;
+  background-clip: content-box;
+}
+
+::-webkit-scrollbar-thumb:horizontal{
+  height: 10px;
+}
+  
+  .MuiButtonBase-root{
+  height: 10px !important;
+  }
+
+
+ #react-joyride-step-0>div>div>div{
+  top:-20px !important;
+}
+#react-joyride-step-1>div>div>div{
+  top:-20px !important;
+}
+#react-joyride-step-2>div>div>div{
+  top:-20px !important;
+}
+
+
+.tooltip{
+  position: absolute;
+  width: 80%;
+  top: 3%;
+  border-radius: 4px;
+  padding: 25px 17px 23px 20px !important;
+   background: #FFFFFF 0% 0% no-repeat padding-box;
+   opacity: 1;
+}
+
+.tooltip:before{
+  content: ' ';
+    display: block;
+    position: absolute;
+    left: 50%;
+    top: -7px;
+    width: 26px;
+    height: 26px;
+   border-width: 1px; 
+    background-color: #fff;
+   
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+}
+.flex{
+  display: flex;
+  justify-content: center;
+ 
+  
+}
+
+.flex-img{
+  display: flex;
+  justify-content:flex-end;
+}
+.flex-condition{
+  display:flex;
+  justify-content: flex-end;
+  align-items: center;
+  text-align: center;
+  margin-top: 20px;
+ 
+}
+
+
+.extra {
+  height: 20px;
+  padding:1px 15px !important;
+  background-color: white !important;
+  background: "#FFFFFF 0% 0% no-repeat padding-box" !important;
+  box-shadow: "0px 3px 6px #00000029" !important;
+  font-size: 12px !important;
+  font-weight: 600 !important;
+  color: "#1F1F1F" !important;
+  align-items: center;
+  justify-content: "center" !important;
+  display: "flex" !important;
+  white-space: "nowrap" !important;
+}
+
+.extra::before{
+  border: 0 !important;
+}
+
+.__react_component_tooltip.show{
+  margin-top: 15px !important;
+}
+
+/*loader css*/
+
+.dots {
+  width: 1.6em;
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.dots div {
+  width: 0.3em;
+  height: 0.3em;
+  border-radius: 50%;
+  background-color: #3c70ff;
+  animation: fade 0.8s ease-in-out alternate infinite;
+}
+
+.dots div:nth-of-type(1) {
+  animation-delay: -0.4s;
+}
+
+.dots div:nth-of-type(2) {
+  animation-delay: -0.2s;
+}
+
+.table-dots {
+  width: 1.6em;
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.table-dots div {
+  width: 0.3em;
+  height: 0.3em;
+  border-radius: 50%;
+  background-color: #C0C0C0;
+  animation: fade 0.8s ease-in-out alternate infinite;
+}
+
+.table-dots div:nth-of-type(1) {
+  animation-delay: -0.4s;
+}
+
+.table-dots div:nth-of-type(2) {
+  animation-delay: -0.2s;
+}
+
+@keyframes fade {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+
+.center-parent-div{
+  display: flex;
+  justify-content: center;
+}
+
+.width-100p{
+  width: 100vw;
+}
+
+.position-relative{
+  position: relative;
+}
+
+.top-50px{
+  top: 50px;
+}
+.search-wrapper{
+display: flex;
+justify-content: space-between;
+height: 55px;
+}
+
+.search-box::-webkit-input-placeholder {
+    font-size: 12px;
+    line-height: 4;
+}
+
+@keyframes placeHolderShimmer {
+  0% {
+    background-position: -800px 0
+  }
+  100% {
+    background-position: 800px 0
+  }
+}
+.css-2ehmn7-MuiInputBase-root-MuiOutlinedInput-root{
+  font-size: 14px !important;
+  width: 100% !important;
+  max-width: 200px !important;
+}
+
+.animated-background {
+  animation-duration: 4s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-name: placeHolderShimmer;
+  animation-timing-function: linear;
+  background: #1c3c93 linear-gradient(to right, #1c3c93 30%, #4065cb 40%, #1c3c93 30%);
+  background-size: 800px 104px;
+  height: 8px;
+  width: 80px;
+  position: relative;
+  border-radius: 4px;
+  margin-top: 5px;
+}
+
+.switch {
+  position: relative;
+  margin-top: 4px;
+  margin-left: 10px;
+}
+
+.switch label {
+  width: 45px;
+  height: 23px;
+  background-color: #999;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50px;
+}
+
+.switch input[type="checkbox"] {
+  visibility: hidden;
+}
+
+.switch label:after {
+  content: '';
+  width: 21px;
+  height: 21px;
+  border-radius: 50px;
+  position: absolute;
+  top: 1px;
+  left: 1px;
+  transition: .3s;
+  background-color: white;
+}
+
+.switch .look:checked + label:after {
+  left: 23px;
+}
+
+.switch .look:checked + label {
+  background-color: #3AF219;
+}
+
+.rsm-svg{
+  outline: none;
+}
+
+.marker{
+  cursor: pointer;
+}
+
+@media (min-width: 300px) and (max-width: 767px){
+  .loadingText{
+    right: 10.5vw !important;
+  }
+
+  .extra{
+    padding:1px 22px !important;
+  }
+
+  .css-2ehmn7-MuiInputBase-root-MuiOutlinedInput-root{
+    font-size: 12px !important;
+    /* margin-top: 4px !important; */
+    max-width: 180px !important;
+  }
+  .css-12yjm75-MuiInputBase-input-MuiOutlinedInput-input{
+    height: 1.5rem !important;
+  }
+}
+
+.inputBorder:focus{
+ outline: none !important;
+ border: none !important;
+ box-shadow: none !important;
+}
+.Mui-focused:focus{
+  outline: none !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+.MuiOutlinedInput-notchedOutline{
+  outline: none !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+
+@media(min-height: 500px) and (max-height: 600px){
+  .MuiTableContainer-root{
+    height: 400px;
+  }
+}
+@media(min-height: 600px) and (max-height: 700px){
+  .MuiTableContainer-root{
+    height: 450px;
+  }
+}
+@media(min-height: 700px) and (max-height: 800px){
+  .MuiTableContainer-root{
+    height: 520px;
+  }
+}
+@media(min-height: 800px) and (max-height: 900px){
+  .MuiTableContainer-root{
+    height: 550px;
+  }
+}

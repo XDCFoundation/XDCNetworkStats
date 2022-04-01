@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="Documents" transform="translate(-5603 150)">
+    <rect id="Rectangle_116" data-name="Rectangle 116" width="32" height="32" transform="translate(5603 -150)" fill="none"/>
+    <g id="Doc" transform="translate(5589.5 -157.5)">
+      <g id="Document_paper_report" data-name="Document, paper, report" transform="translate(21.5 12.5)">
+        <path id="Path_28" data-name="Path 28" d="M37.639,12.5H22.087a.587.587,0,0,0-.587.587V28.951a.587.587,0,0,0,.015.126.041.041,0,0,0,0,.018.654.654,0,0,0,.047.126.22.22,0,0,1,.021.035.587.587,0,0,0,.1.123l5.326,4.983a.487.487,0,0,0,.091.067l.038.021.059.029a.343.343,0,0,0,.059.018H27.3a.44.44,0,0,0,.109,0H37.639a.587.587,0,0,0,.587-.587V13.075A.587.587,0,0,0,37.639,12.5ZM26.82,32.569l-1.212-1.142-2.034-1.9H26.82Zm10.232.766H27.994V28.951a.587.587,0,0,0-.587-.587H22.674V13.674H37.053Z" transform="translate(-21.5 -12.5)" fill="#fff" stroke="#fff" stroke-width="0.4"/>
+        <path id="Path_29" data-name="Path 29" d="M32.57,25.736h9.408a.62.62,0,0,0,0-1.236H32.57a.62.62,0,0,0,0,1.236Z" transform="translate(-28.756 -20.989)" fill="#fff" stroke="#fff" stroke-width="0.4"/>
+        <path id="Path_30" data-name="Path 30" d="M32.57,37.736h9.408a.62.62,0,0,0,0-1.236H32.57a.62.62,0,0,0,0,1.236Z" transform="translate(-28.756 -29.478)" fill="#fff" stroke="#fff" stroke-width="0.4"/>
+        <path id="Path_31" data-name="Path 31" d="M42.67,49.5h-9.1a.62.62,0,0,0,0,1.236h9.1a.62.62,0,0,0,0-1.236Z" transform="translate(-29.448 -38.675)" fill="#fff" stroke="#fff" stroke-width="0.4"/>
+        <path id="Path_32" data-name="Path 32" d="M53.178,62.5h-5.56a.618.618,0,0,0,0,1.236h5.56a.618.618,0,0,0,0-1.236Z" transform="translate(-39.765 -47.871)" fill="#fff" stroke="#fff" stroke-width="0.4"/>
+      </g>
+    </g>
+  </g>
+</svg>
